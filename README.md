@@ -31,56 +31,55 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pE8ritz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 - Configre Roles
   - Admin Panel -> Agents -> Roles
-  - Supreme Admin
+  - Create a new Role -> Supreme Admin -> Check Permissions -> Add Role
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pE8ritz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 - Configure Departments
   - Admin Panel -> Agents -> Departments
-  - System Administrators
+  - Add a New Department -> System Administrator -> Create Department
   
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/318VzW3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 - Configure Teams
   - Admin Panel -> Agents -> Teams
-    - Level I Support
-    - Level II Support
+    - Create a New Team -> Level II Support -> Create Team
     
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XHvOtLG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 - Allow anyone to create tickets
   - Admin Panel -> Settings -> User Settings
-  - Registration Required: Require registration and login to create tickets
+  - Registration Required: Require registration and login to create tickets <- Should be unchecked to allow usage without registration for lab purposes
   
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8yiKUu0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -93,20 +92,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6BgOZEa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 - Configure Users (customers)
   - Agent Panel -> Users -> Add New
     - Fill in information for new user #1 (Karen)
+      - Assign one user Admin roles previously configured for lab purposes
     - Fill in information for new user #2 (Ken)
   
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jGue3Az.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -120,7 +120,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ghYCdAN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
