@@ -30,6 +30,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+[- osTicket Login](http://localhost/osTicket/scp/login.php)
+
 <p>
 <img src="https://i.imgur.com/pE8ritz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
