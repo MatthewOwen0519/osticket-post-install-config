@@ -67,3 +67,66 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+- Allow anyone to create tickets
+  - Admin Panel -> Settings -> User Settings
+  - Registration Required: Require registration and login to create tickets
+  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+- Configure Agents (workers)
+  - Admin Panel -> Agents -> Add New
+    - Fill in information for new woker #1 (Jane)
+    - Fill in information for new worker #2 (John)
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+- Configure Users (customers)
+  - Agent Panel -> Users -> Add New
+    - Fill in information for new user #1 (Karen)
+    - Fill in information for new user #2 (Ken)
+  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+- Configure SLA
+  - Admin Panel -> Manage -> SLA
+    - Sev-A (1 hour, 24/7)
+    - Sev-B (4 hours, 24/7)
+    - Sev-C (8 hours, business hours)
+  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+- Configure Help Topics
+  - Admin Panel -> Manage -> Help Topics
+    - Business Critical Outage
+    - Personal Computer Issue
+    - Equipment Request
+    - Password Reset
