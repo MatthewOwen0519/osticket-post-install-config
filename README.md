@@ -40,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/pE8ritz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KtZ15du.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -52,7 +52,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/318VzW3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SDWvaWM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -64,7 +64,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/XHvOtLG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ne1oRDi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -76,7 +76,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/8yiKUu0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9SzFgkT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -89,7 +89,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/6BgOZEa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/53sBT9a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -103,7 +103,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/jGue3Az.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dTlwNVS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -117,7 +117,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/ghYCdAN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T2vuNaA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
